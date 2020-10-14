@@ -1,0 +1,37 @@
+{
+    "theme_color": "#0098DA",
+    "background_color": "#0098DA",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Pra Vendas",
+    "app_name": "Pra Vendas",
+    "description": "Pra Vendas, um gerador de e-commerce!",
+    "short_name": "Pra Vendas",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

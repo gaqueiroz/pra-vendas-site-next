@@ -1,0 +1,1034 @@
+[
+  {
+    "_id": "001",
+    "name": "BANCO DO BRASIL"
+  },
+  {
+    "_id": "341",
+    "name": "ITAÚ"
+  },
+  {
+    "_id": "104",
+    "name": "CAIXA ECONÔMICA FEDERAL"
+  },
+  {
+    "_id": "033",
+    "name": "SANTANDER"
+  },
+  {
+    "_id": "070",
+    "name": "BRB - BANCO DE BRASÍLIA"
+  },
+  {
+    "_id": "077",
+    "name": "BANCO INTERMEDIUM"
+  },
+  {
+    "_id": "237",
+    "name": "BRADESCO"
+  },
+  {
+    "_id": "745",
+    "name": "CITIBANK"
+  },
+  {
+    "_id": "422",
+    "name": "BANCO SAFRA"
+  },
+  {
+    "_id": "399",
+    "name": "BANCO HSBC"
+  },
+  {
+    "_id": "756",
+    "name": "BANCOOB"
+  },
+  {
+    "_id": "212",
+    "name": "BANCO ORIGINAL"
+  },
+  {
+    "_id": "002",
+    "name": "BANCO CENTRAL DO BRASIL"
+  },
+  {
+    "_id": "003",
+    "name": "BANCO DA AMAZONIA S.A"
+  },
+  {
+    "_id": "004",
+    "name": "BANCO DO NORDESTE DO BRASIL S.A"
+  },
+  {
+    "_id": "007",
+    "name": "BANCO NAC DESENV. ECO. SOCIAL S.A"
+  },
+  {
+    "_id": "008",
+    "name": "BANCO MERIDIONAL DO BRASIL"
+  },
+  {
+    "_id": "020",
+    "name": "BANCO DO ESTADO DE ALAGOAS S.A"
+  },
+  {
+    "_id": "021",
+    "name": "BANCO DO ESTADO DO ESPIRITO SANTO S.A"
+  },
+  {
+    "_id": "022",
+    "name": "BANCO DE CREDITO REAL DE MINAS GERAIS SA"
+  },
+  {
+    "_id": "024",
+    "name": "BANCO DO ESTADO DE PERNAMBUCO"
+  },
+  {
+    "_id": "025",
+    "name": "BANCO ALFA S/A"
+  },
+  {
+    "_id": "026",
+    "name": "BANCO DO ESTADO DO ACRE S.A"
+  },
+  {
+    "_id": "027",
+    "name": "BANCO DO ESTADO DE SANTA CATARINA S.A"
+  },
+  {
+    "_id": "028",
+    "name": "BANCO DO ESTADO DA BAHIA S.A"
+  },
+  {
+    "_id": "029",
+    "name": "BANCO DO ESTADO DO RIO DE JANEIRO S.A"
+  },
+  {
+    "_id": "030",
+    "name": "BANCO DO ESTADO DA PARAIBA S.A"
+  },
+  {
+    "_id": "031",
+    "name": "BANCO DO ESTADO DE GOIAS S.A"
+  },
+  {
+    "_id": "032",
+    "name": "BANCO DO ESTADO DO MATO GROSSO S.A."
+  },
+  {
+    "_id": "034",
+    "name": "BANCO DO ESADO DO AMAZONAS S.A"
+  },
+  {
+    "_id": "035",
+    "name": "BANCO DO ESTADO DO CEARA S.A"
+  },
+  {
+    "_id": "036",
+    "name": "BANCO DO ESTADO DO MARANHAO S.A"
+  },
+  {
+    "_id": "037",
+    "name": "BANCO DO ESTADO DO PARA S.A"
+  },
+  {
+    "_id": "038",
+    "name": "BANCO DO ESTADO DO PARANA S.A"
+  },
+  {
+    "_id": "039",
+    "name": "BANCO DO ESTADO DO PIAUI S.A"
+  },
+  {
+    "_id": "041",
+    "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A"
+  },
+  {
+    "_id": "047",
+    "name": "BANCO DO ESTADO DE SERGIPE S.A"
+  },
+  {
+    "_id": "048",
+    "name": "BANCO DO ESTADO DE MINAS GERAIS S.A"
+  },
+  {
+    "_id": "059",
+    "name": "BANCO DO ESTADO DE RONDONIA S.A"
+  },
+  {
+    "_id": "106",
+    "name": "BANCO ITABANCO S.A."
+  },
+  {
+    "_id": "107",
+    "name": "BANCO BBM S.A"
+  },
+  {
+    "_id": "109",
+    "name": "BANCO CREDIBANCO S.A"
+  },
+  {
+    "_id": "116",
+    "name": "BANCO B.N.L DO BRASIL S.A"
+  },
+  {
+    "_id": "148",
+    "name": "MULTI BANCO S.A"
+  },
+  {
+    "_id": "151",
+    "name": "CAIXA ECONOMICA DO ESTADO DE SAO PAULO"
+  },
+  {
+    "_id": "153",
+    "name": "CAIXA ECONOMICA DO ESTADO DO R.G.SUL"
+  },
+  {
+    "_id": "165",
+    "name": "BANCO NORCHEM S.A"
+  },
+  {
+    "_id": "166",
+    "name": "BANCO INTER-ATLANTICO S.A"
+  },
+  {
+    "_id": "168",
+    "name": "BANCO C.C.F. BRASIL S.A"
+  },
+  {
+    "_id": "175",
+    "name": "CONTINENTAL BANCO S.A"
+  },
+  {
+    "_id": "184",
+    "name": "BBA - CREDITANSTALT S.A"
+  },
+  {
+    "_id": "199",
+    "name": "BANCO FINANCIAL PORTUGUES"
+  },
+  {
+    "_id": "200",
+    "name": "BANCO FRICRISA AXELRUD S.A"
+  },
+  {
+    "_id": "201",
+    "name": "BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A"
+  },
+  {
+    "_id": "204",
+    "name": "BANCO S.R.L S.A"
+  },
+  {
+    "_id": "205",
+    "name": "BANCO SUL AMERICA S.A"
+  },
+  {
+    "_id": "206",
+    "name": "BANCO MARTINELLI S.A"
+  },
+  {
+    "_id": "208",
+    "name": "BANCO PACTUAL S.A"
+  },
+  {
+    "_id": "210",
+    "name": "DEUTSCH SUDAMERIKANICHE BANK AG"
+  },
+  {
+    "_id": "211",
+    "name": "BANCO SISTEMA S.A"
+  },
+  {
+    "_id": "213",
+    "name": "BANCO ARBI S.A"
+  },
+  {
+    "_id": "214",
+    "name": "BANCO DIBENS S.A"
+  },
+  {
+    "_id": "215",
+    "name": "BANCO AMERICA DO SUL S.A"
+  },
+  {
+    "_id": "216",
+    "name": "BANCO REGIONAL MALCON S.A"
+  },
+  {
+    "_id": "217",
+    "name": "BANCO AGROINVEST S.A"
+  },
+  {
+    "_id": "218",
+    "name": "BS2"
+  },
+  {
+    "_id": "219",
+    "name": "BANCO DE CREDITO DE SAO PAULO S.A"
+  },
+  {
+    "_id": "220",
+    "name": "BANCO CREFISUL"
+  },
+  {
+    "_id": "221",
+    "name": "BANCO GRAPHUS S.A"
+  },
+  {
+    "_id": "222",
+    "name": "BANCO AGF BRASIL S. A."
+  },
+  {
+    "_id": "223",
+    "name": "BANCO INTERUNION S.A"
+  },
+  {
+    "_id": "224",
+    "name": "BANCO FIBRA S.A"
+  },
+  {
+    "_id": "225",
+    "name": "BANCO BRASCAN S.A"
+  },
+  {
+    "_id": "228",
+    "name": "BANCO ICATU S.A"
+  },
+  {
+    "_id": "229",
+    "name": "BANCO CRUZEIRO S.A"
+  },
+  {
+    "_id": "230",
+    "name": "BANCO BANDEIRANTES S.A"
+  },
+  {
+    "_id": "231",
+    "name": "BANCO BOAVISTA S.A"
+  },
+  {
+    "_id": "232",
+    "name": "BANCO INTERPART S.A"
+  },
+  {
+    "_id": "233",
+    "name": "BANCO MAPPIN S.A"
+  },
+  {
+    "_id": "234",
+    "name": "BANCO LAVRA S.A."
+  },
+  {
+    "_id": "235",
+    "name": "BANCO LIBERAL S.A"
+  },
+  {
+    "_id": "236",
+    "name": "BANCO CAMBIAL S.A"
+  },
+  {
+    "_id": "239",
+    "name": "BANCO BANCRED S.A"
+  },
+  {
+    "_id": "240",
+    "name": "BANCO DE CREDITO REAL DE MINAS GERAIS S."
+  },
+  {
+    "_id": "241",
+    "name": "BANCO CLASSICO S.A"
+  },
+  {
+    "_id": "242",
+    "name": "BANCO EUROINVEST S.A"
+  },
+  {
+    "_id": "243",
+    "name": "BANCO MÁXIMA S.A"
+  },
+  {
+    "_id": "244",
+    "name": "BANCO CIDADE S.A"
+  },
+  {
+    "_id": "245",
+    "name": "BANCO EMPRESARIAL S.A"
+  },
+  {
+    "_id": "246",
+    "name": "BANCO ABC ROMA S.A"
+  },
+  {
+    "_id": "247",
+    "name": "BANCO OMEGA S.A"
+  },
+  {
+    "_id": "249",
+    "name": "BANCO INVESTCRED S.A"
+  },
+  {
+    "_id": "250",
+    "name": "BANCO SCHAHIN CURY S.A"
+  },
+  {
+    "_id": "251",
+    "name": "BANCO SAO JORGE S.A."
+  },
+  {
+    "_id": "252",
+    "name": "BANCO FININVEST S.A"
+  },
+  {
+    "_id": "254",
+    "name": "BANCO PARANA BANCO S.A"
+  },
+  {
+    "_id": "255",
+    "name": "MILBANCO S.A."
+  },
+  {
+    "_id": "256",
+    "name": "BANCO GULVINVEST S.A"
+  },
+  {
+    "_id": "258",
+    "name": "BANCO INDUSCRED S.A"
+  },
+  {
+    "_id": "261",
+    "name": "BANCO VARIG S.A"
+  },
+  {
+    "_id": "262",
+    "name": "BANCO BOREAL S.A"
+  },
+  {
+    "_id": "263",
+    "name": "BANCO CACIQUE"
+  },
+  {
+    "_id": "264",
+    "name": "BANCO PERFORMANCE S.A"
+  },
+  {
+    "_id": "265",
+    "name": "BANCO FATOR S.A"
+  },
+  {
+    "_id": "266",
+    "name": "BANCO CEDULA S.A"
+  },
+  {
+    "_id": "267",
+    "name": "BANCO BBM-COM.C.IMOB.CFI S.A."
+  },
+  {
+    "_id": "275",
+    "name": "BANCO REAL S.A"
+  },
+  {
+    "_id": "277",
+    "name": "BANCO PLANIBANC S.A"
+  },
+  {
+    "_id": "282",
+    "name": "BANCO BRASILEIRO COMERCIAL"
+  },
+  {
+    "_id": "291",
+    "name": "BANCO DE CREDITO NACIONAL S.A"
+  },
+  {
+    "_id": "294",
+    "name": "BCR - BANCO DE CREDITO REAL S.A"
+  },
+  {
+    "_id": "295",
+    "name": "BANCO CREDIPLAN S.A"
+  },
+  {
+    "_id": "300",
+    "name": "BANCO DE LA NACION ARGENTINA S.A"
+  },
+  {
+    "_id": "302",
+    "name": "BANCO DO PROGRESSO S.A"
+  },
+  {
+    "_id": "303",
+    "name": "BANCO HNF S.A."
+  },
+  {
+    "_id": "304",
+    "name": "BANCO PONTUAL S.A"
+  },
+  {
+    "_id": "308",
+    "name": "BANCO COMERCIAL BANCESA S.A."
+  },
+  {
+    "_id": "318",
+    "name": "BANCO B.M.G. S.A"
+  },
+  {
+    "_id": "320",
+    "name": "BANCO INDUSTRIAL E COMERCIAL"
+  },
+  {
+    "_id": "346",
+    "name": "BANCO FRANCES E BRASILEIRO S.A"
+  },
+  {
+    "_id": "347",
+    "name": "BANCO SUDAMERIS BRASIL S.A"
+  },
+  {
+    "_id": "351",
+    "name": "BANCO BOZANO SIMONSEN S.A"
+  },
+  {
+    "_id": "353",
+    "name": "BANCO GERAL DO COMERCIO S.A"
+  },
+  {
+    "_id": "356",
+    "name": "ABN AMRO S.A"
+  },
+  {
+    "_id": "366",
+    "name": "BANCO SOGERAL S.A"
+  },
+  {
+    "_id": "369",
+    "name": "PONTUAL"
+  },
+  {
+    "_id": "370",
+    "name": "BEAL - BANCO EUROPEU PARA AMERICA LATINA"
+  },
+  {
+    "_id": "372",
+    "name": "BANCO ITAMARATI S.A"
+  },
+  {
+    "_id": "375",
+    "name": "BANCO FENICIA S.A"
+  },
+  {
+    "_id": "376",
+    "name": "CHASE MANHATTAN BANK S.A"
+  },
+  {
+    "_id": "388",
+    "name": "BANCO MERCANTIL DE DESCONTOS S/A"
+  },
+  {
+    "_id": "389",
+    "name": "BANCO MERCANTIL DO BRASIL S.A"
+  },
+  {
+    "_id": "392",
+    "name": "BANCO MERCANTIL DE SAO PAULO S.A"
+  },
+  {
+    "_id": "394",
+    "name": "BANCO B.M.C. S.A"
+  },
+  {
+    "_id": "409",
+    "name": "UNIBANCO - UNIAO DOS BANCOS BRASILEIROS"
+  },
+  {
+    "_id": "412",
+    "name": "BANCO NACIONAL DA BAHIA S.A"
+  },
+  {
+    "_id": "415",
+    "name": "BANCO NACIONAL S.A"
+  },
+  {
+    "_id": "420",
+    "name": "BANCO NACIONAL DO NORTE S.A"
+  },
+  {
+    "_id": "424",
+    "name": "BANCO NOROESTE S.A"
+  },
+  {
+    "_id": "434",
+    "name": "BANCO FORTALEZA S.A"
+  },
+  {
+    "_id": "453",
+    "name": "BANCO RURAL S.A"
+  },
+  {
+    "_id": "456",
+    "name": "BANCO TOKIO S.A"
+  },
+  {
+    "_id": "464",
+    "name": "BANCO SUMITOMO BRASILEIRO S.A"
+  },
+  {
+    "_id": "466",
+    "name": "BANCO MITSUBISHI BRASILEIRO S.A"
+  },
+  {
+    "_id": "472",
+    "name": "LLOYDS BANK PLC"
+  },
+  {
+    "_id": "473",
+    "name": "BANCO FINANCIAL PORTUGUES S.A"
+  },
+  {
+    "_id": "477",
+    "name": "CITIBANK N.A"
+  },
+  {
+    "_id": "479",
+    "name": "BANCO DE BOSTON S.A"
+  },
+  {
+    "_id": "480",
+    "name": "BANCO PORTUGUES DO ATLANTICO-BRASIL S.A"
+  },
+  {
+    "_id": "483",
+    "name": "BANCO AGRIMISA S.A."
+  },
+  {
+    "_id": "487",
+    "name": "DEUTSCHE BANK S.A - BANCO ALEMAO"
+  },
+  {
+    "_id": "488",
+    "name": "BANCO J. P. MORGAN S.A"
+  },
+  {
+    "_id": "489",
+    "name": "BANESTO BANCO URUGAUAY S.A"
+  },
+  {
+    "_id": "492",
+    "name": "INTERNATIONALE NEDERLANDEN BANK N.V."
+  },
+  {
+    "_id": "493",
+    "name": "BANCO UNION S.A.C.A"
+  },
+  {
+    "_id": "494",
+    "name": "BANCO LA REP. ORIENTAL DEL URUGUAY"
+  },
+  {
+    "_id": "495",
+    "name": "BANCO LA PROVINCIA DE BUENOS AIRES"
+  },
+  {
+    "_id": "496",
+    "name": "BANCO EXTERIOR DE ESPANA S.A"
+  },
+  {
+    "_id": "498",
+    "name": "CENTRO HISPANO BANCO"
+  },
+  {
+    "_id": "499",
+    "name": "BANCO IOCHPE S.A"
+  },
+  {
+    "_id": "501",
+    "name": "BANCO BRASILEIRO IRAQUIANO S.A."
+  },
+  {
+    "_id": "502",
+    "name": "BANCO SANTANDER S.A"
+  },
+  {
+    "_id": "504",
+    "name": "BANCO MULTIPLIC S.A"
+  },
+  {
+    "_id": "505",
+    "name": "BANCO GARANTIA S.A"
+  },
+  {
+    "_id": "600",
+    "name": "BANCO LUSO BRASILEIRO S.A"
+  },
+  {
+    "_id": "601",
+    "name": "BFC BANCO S.A."
+  },
+  {
+    "_id": "602",
+    "name": "BANCO PATENTE S.A"
+  },
+  {
+    "_id": "604",
+    "name": "BANCO INDUSTRIAL DO BRASIL S.A"
+  },
+  {
+    "_id": "607",
+    "name": "BANCO SANTOS NEVES S.A"
+  },
+  {
+    "_id": "608",
+    "name": "BANCO OPEN S.A"
+  },
+  {
+    "_id": "610",
+    "name": "BANCO V.R. S.A"
+  },
+  {
+    "_id": "611",
+    "name": "BANCO PAULISTA S.A"
+  },
+  {
+    "_id": "612",
+    "name": "BANCO GUANABARA S.A"
+  },
+  {
+    "_id": "613",
+    "name": "BANCO PECUNIA S.A"
+  },
+  {
+    "_id": "616",
+    "name": "BANCO INTERPACIFICO S.A"
+  },
+  {
+    "_id": "617",
+    "name": "BANCO INVESTOR S.A."
+  },
+  {
+    "_id": "618",
+    "name": "BANCO TENDENCIA S.A"
+  },
+  {
+    "_id": "621",
+    "name": "BANCO APLICAP S.A."
+  },
+  {
+    "_id": "622",
+    "name": "BANCO DRACMA S.A"
+  },
+  {
+    "_id": "623",
+    "name": "BANCO PANAMERICANO S.A"
+  },
+  {
+    "_id": "624",
+    "name": "BANCO GENERAL MOTORS S.A"
+  },
+  {
+    "_id": "625",
+    "name": "BANCO ARAUCARIA S.A"
+  },
+  {
+    "_id": "626",
+    "name": "BANCO FICSA S.A"
+  },
+  {
+    "_id": "627",
+    "name": "BANCO DESTAK S.A"
+  },
+  {
+    "_id": "628",
+    "name": "BANCO CRITERIUM S.A"
+  },
+  {
+    "_id": "629",
+    "name": "BANCORP BANCO COML. E. DE INVESTMENTO"
+  },
+  {
+    "_id": "630",
+    "name": "BANCO INTERCAP S.A"
+  },
+  {
+    "_id": "633",
+    "name": "BANCO REDIMENTO S.A"
+  },
+  {
+    "_id": "634",
+    "name": "BANCO TRIANGULO S.A"
+  },
+  {
+    "_id": "635",
+    "name": "BANCO DO ESTADO DO AMAPA S.A"
+  },
+  {
+    "_id": "637",
+    "name": "BANCO SOFISA S.A"
+  },
+  {
+    "_id": "638",
+    "name": "BANCO PROSPER S.A"
+  },
+  {
+    "_id": "639",
+    "name": "BIG S.A. - BANCO IRMAOS GUIMARAES"
+  },
+  {
+    "_id": "640",
+    "name": "BANCO DE CREDITO METROPOLITANO S.A"
+  },
+  {
+    "_id": "641",
+    "name": "BANCO EXCEL ECONOMICO S/A"
+  },
+  {
+    "_id": "643",
+    "name": "BANCO SEGMENTO S.A"
+  },
+  {
+    "_id": "645",
+    "name": "BANCO DO ESTADO DE RORAIMA S.A"
+  },
+  {
+    "_id": "647",
+    "name": "BANCO MARKA S.A"
+  },
+  {
+    "_id": "648",
+    "name": "BANCO ATLANTIS S.A"
+  },
+  {
+    "_id": "649",
+    "name": "BANCO DIMENSAO S.A"
+  },
+  {
+    "_id": "650",
+    "name": "BANCO PEBB S.A"
+  },
+  {
+    "_id": "652",
+    "name": "BANCO FRANCES E BRASILEIRO SA"
+  },
+  {
+    "_id": "653",
+    "name": "BANCO INDUSVAL S.A"
+  },
+  {
+    "_id": "654",
+    "name": "BANCO A. J. RENNER S.A"
+  },
+  {
+    "_id": "655",
+    "name": "BANCO VOTORANTIM S.A."
+  },
+  {
+    "_id": "656",
+    "name": "BANCO MATRIX S.A"
+  },
+  {
+    "_id": "657",
+    "name": "BANCO TECNICORP S.A"
+  },
+  {
+    "_id": "658",
+    "name": "BANCO PORTO REAL S.A"
+  },
+  {
+    "_id": "702",
+    "name": "BANCO SANTOS S.A"
+  },
+  {
+    "_id": "705",
+    "name": "BANCO INVESTCORP S.A."
+  },
+  {
+    "_id": "707",
+    "name": "BANCO DAYCOVAL S.A"
+  },
+  {
+    "_id": "711",
+    "name": "BANCO VETOR S.A."
+  },
+  {
+    "_id": "713",
+    "name": "BANCO CINDAM S.A"
+  },
+  {
+    "_id": "715",
+    "name": "BANCO VEGA S.A"
+  },
+  {
+    "_id": "718",
+    "name": "BANCO OPERADOR S.A"
+  },
+  {
+    "_id": "719",
+    "name": "BANCO PRIMUS S.A"
+  },
+  {
+    "_id": "720",
+    "name": "BANCO MAXINVEST S.A"
+  },
+  {
+    "_id": "721",
+    "name": "BANCO CREDIBEL S.A"
+  },
+  {
+    "_id": "722",
+    "name": "BANCO INTERIOR DE SAO PAULO S.A"
+  },
+  {
+    "_id": "724",
+    "name": "BANCO PORTO SEGURO S.A"
+  },
+  {
+    "_id": "725",
+    "name": "BANCO FINABANCO S.A"
+  },
+  {
+    "_id": "726",
+    "name": "BANCO UNIVERSAL S.A"
+  },
+  {
+    "_id": "728",
+    "name": "BANCO FITAL S.A"
+  },
+  {
+    "_id": "729",
+    "name": "BANCO FONTE S.A"
+  },
+  {
+    "_id": "730",
+    "name": "BANCO COMERCIAL PARAGUAYO S.A"
+  },
+  {
+    "_id": "731",
+    "name": "BANCO GNPP S.A."
+  },
+  {
+    "_id": "732",
+    "name": "BANCO PREMIER S.A."
+  },
+  {
+    "_id": "733",
+    "name": "BANCO NACOES S.A."
+  },
+  {
+    "_id": "734",
+    "name": "BANCO GERDAU S.A"
+  },
+  {
+    "_id": "735",
+    "name": "BANCO NEON"
+  },
+  {
+    "_id": "736",
+    "name": "BANCO UNITED S.A"
+  },
+  {
+    "_id": "737",
+    "name": "THECA"
+  },
+  {
+    "_id": "738",
+    "name": "MARADA"
+  },
+  {
+    "_id": "739",
+    "name": "BGN"
+  },
+  {
+    "_id": "740",
+    "name": "BCN BARCLAYS"
+  },
+  {
+    "_id": "741",
+    "name": "BRP"
+  },
+  {
+    "_id": "742",
+    "name": "EQUATORIAL"
+  },
+  {
+    "_id": "743",
+    "name": "BANCO EMBLEMA S.A"
+  },
+  {
+    "_id": "744",
+    "name": "THE FIRST NATIONAL BANK OF BOSTON"
+  },
+  {
+    "_id": "746",
+    "name": "MODAL S\\A"
+  },
+  {
+    "_id": "747",
+    "name": "RAIBOBANK DO BRASIL"
+  },
+  {
+    "_id": "748",
+    "name": "SICREDI"
+  },
+  {
+    "_id": "749",
+    "name": "BRMSANTIL SA"
+  },
+  {
+    "_id": "750",
+    "name": "BANCO REPUBLIC NATIONAL OF NEW YORK (BRA"
+  },
+  {
+    "_id": "751",
+    "name": "DRESDNER BANK LATEINAMERIKA-BRASIL S/A"
+  },
+  {
+    "_id": "752",
+    "name": "BANCO BANQUE NATIONALE DE PARIS BRASIL S"
+  },
+  {
+    "_id": "753",
+    "name": "BANCO COMERCIAL URUGUAI S.A."
+  },
+  {
+    "_id": "755",
+    "name": "BANCO MERRILL LYNCH S.A"
+  },
+  {
+    "_id": "757",
+    "name": "BANCO KEB DO BRASIL S.A."
+  },
+  {
+    "_id": "260",
+    "name": "Nu Pagamentos S.A"
+  },
+  {
+    "_id": "102",
+    "name": "XP INVESTIMENTOS"
+  },
+  {
+    "_id": "336",
+    "name": "BANCO C6 S.A."
+  },
+  {
+    "_id": "290",
+    "name": "PagSeguro Internet S.A."
+  },
+  {
+    "_id": "323",
+    "name": "MercadoPago.com Representações Ltda."
+  },
+  {
+    "_id": "332",
+    "name": "Acesso Soluções de Pagamento S.A."
+  },
+  {
+    "_id": "325",
+    "name": "Órama DTVM S.A."
+  },
+  {
+    "_id": "85",
+    "name": "COOPERATIVA CENTRAL DE CREDITO - AILOS"
+  },
+  {
+    "_id": "125",
+    "name": "PLURAL S.A. BANCO MULTIPLO"
+  }
+]
